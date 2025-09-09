@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    width: 100%;
+    background-color: rgb(132, 189, 243);
+    justify-items: center;
+}
+
+.menu {
+    margin-top: 200px;
+    width: 70%;
+    text-align: center;
+}
+
+.menu img {
+    display: inline;
+    width: 40%;
+    margin: 0 10px;
+}
